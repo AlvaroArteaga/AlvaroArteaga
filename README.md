@@ -31,7 +31,7 @@
 | **DevOps**    | `Docker` · `GitHub Actions` · \`AWS (EC2                    |  S3  |  IAM)\` |
 | **Extras**    | `Kivy/KivyMD` · `PostgreSQL` · `Rich` · *Markdown Lover* 😎 |      |         |
 
-<details>
+<details open>
 <summary>📊 <strong>Technology Expertise Breakdown</strong></summary>
 
 | Area                     | Tools / Stack                                                                                        | Expertise Level |
@@ -74,7 +74,6 @@ flowchart TD
     B --> G[Logs & Alerts]
 ```
 
-> *Nota:* Mermaid está permitido en repos estándar; si GitHub limita la vista en tu perfil, puedes dejar este bloque o reemplazarlo por un diagrama exportado como imagen.
 
 ---
 
