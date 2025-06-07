@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Alvaro Arteaga — Ingeniero Eléctrico · Full‑Stack & AI Developer · Creative Technologist
+# ⚡ Alvaro Arteaga — Electrical Engineer · Full‑Stack & AI Developer · Creative Technologist
 
 ### 🌿 a.k.a. **Artemio** — Orthodox Christian identity and creative signature
 
